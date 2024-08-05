@@ -49,7 +49,27 @@ Python played a pivotal role in my analysis, allowing for a comprehensive examin
 
 ![1](https://github.com/user-attachments/assets/e05bbc02-999e-4e25-8f77-b75160672684)
 
+- We can also observe both general and subcategories in these bar charts. In the subgroup chart, it is evident that the most sold category is Accessories & Peripherals.
 
-- 
+![2](https://github.com/user-attachments/assets/c5024d16-19da-401e-9e52-4b646b7639b5)
+
+- I plotted the prices according to both general and subcategories. As shown, Electronics has the highest prices, with a mean price around $120. Home & Kitchen and Car & Motorbike categories follow, with mean prices approximately half of that of Electronics, around $50. The cheapest category is Toys & Games, with a mean price of $1.80. In the subcategories, Laptops have the highest mean price, as expected, at $714.
+
+![3](https://github.com/user-attachments/assets/95fdaa0b-1321-4be9-b2b0-30ca2791e3dc)
 
 
+- I examined the discount rates of products according to their categories. The highest discount rate is in the Home Improvement category, at 57%. Computers & Accessories follows with a 53% discount rate. Given that Computers & Accessories has the highest prices, a high discount rate is expected in this category. The Toys & Games category shows no discount, which is understandable given the already low prices. In the subcategories, Wearable Technology has the highest discount rate.
+
+![4](https://github.com/user-attachments/assets/15fcf251-0ae0-45af-ac53-0b99b8785bb3)
+
+- I examined the ratings, which are out of five. I created five groups: Very Good, Good, Okay, Bad, and Very Bad. I then created a bar chart to visualize the distribution of product ratings. As shown, there are only six products in the Bad category, with ratings lower than 2 out of 5. The general rating falls into the Good category, meaning ratings are between 4.5 and 4.0. Out of 1,462 products, 1,006 are reviewed in this category.
+
+![5](https://github.com/user-attachments/assets/f6b4a949-83b8-4331-b258-56411f151daa)
+
+- The ratings of the products are also visualized in a histogram plot. We can see that the distribution of product ratings follows a normal distribution.
+
+![6](https://github.com/user-attachments/assets/ee44a375-09e4-4a88-a75e-df4081e8e71d)
+
+- In these graphs, the distribution of ratings across categories and sub-categories is shown. Although there are no significant differences across the categories, the highest-rated category is Office Products, with a mean rating of 4.31 out of 5. In the sub-categories, Tablets have the highest rating, with a score of 4.6 out of 5.
+
+![7](https://github.com/user-attachments/assets/50a4ca22-04be-4b22-90b6-4df4075d9e31)
