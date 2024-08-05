@@ -57,7 +57,6 @@ Python played a pivotal role in my analysis, allowing for a comprehensive examin
 
 ![3](https://github.com/user-attachments/assets/95fdaa0b-1321-4be9-b2b0-30ca2791e3dc)
 
-
 - I examined the discount rates of products according to their categories. The highest discount rate is in the Home Improvement category, at 57%. Computers & Accessories follows with a 53% discount rate. Given that Computers & Accessories has the highest prices, a high discount rate is expected in this category. The Toys & Games category shows no discount, which is understandable given the already low prices. In the subcategories, Wearable Technology has the highest discount rate.
 
 ![4](https://github.com/user-attachments/assets/15fcf251-0ae0-45af-ac53-0b99b8785bb3)
@@ -69,6 +68,11 @@ Python played a pivotal role in my analysis, allowing for a comprehensive examin
 - The ratings of the products are also visualized in a histogram plot. We can see that the distribution of product ratings follows a normal distribution.
 
 ![6](https://github.com/user-attachments/assets/ee44a375-09e4-4a88-a75e-df4081e8e71d)
+
+- I plotted the relationship between Rating and Review Count, where Review Count is used as a proxy for the number of sold products. The graph illustrates that as the rating increases, both the number of reviews and the number of sold products generally rise. However, there is a noticeable decrease in the number of reviews for ratings above 4.25. This decline could be attributed to several factors, one of which may be the higher price associated with products that receive the highest ratings.
+
+![8](https://github.com/user-attachments/assets/a6d77242-926e-41a9-a7d3-0a7e89d57fa7)
+
 
 - In these graphs, the distribution of ratings across categories and sub-categories is shown. Although there are no significant differences across the categories, the highest-rated category is Office Products, with a mean rating of 4.31 out of 5. In the sub-categories, Tablets have the highest rating, with a score of 4.6 out of 5.
 
