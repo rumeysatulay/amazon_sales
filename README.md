@@ -47,11 +47,11 @@ Python played a pivotal role in my analysis, allowing for a comprehensive examin
 
 - Firstly, I analyzed the percentage of products in each category by creating a pie chart. As shown, the largest portion, with 36%, belongs to the Electronics category. The Computers & Accessories and Home & Kitchen categories follow, each accounting for 30%. The remaining six categories each contribute 3% of the total products.
 
-![1](https://github.com/user-attachments/assets/e05bbc02-999e-4e25-8f77-b75160672684)
+![1](https://github.com/user-attachments/assets/e5376671-a6ca-4b27-b5f7-eeaef98887a4)
 
-- We can also observe both general and subcategories in these bar charts. In the subgroup chart, it is evident that the most sold category is Accessories & Peripherals.
+- I examined the review count. Although the data does not include the number of products sold, we can infer that it is proportional to the number of reviews. In the general categories, the most reviewed products are in Electronics. In the subcategory chart, it is evident that the most reviewed category is Accessories & Peripherals.
 
-![2](https://github.com/user-attachments/assets/c5024d16-19da-401e-9e52-4b646b7639b5)
+![2](https://github.com/user-attachments/assets/70509b3f-5a0b-4ee3-a08d-24199f65c21d)
 
 - I plotted the prices according to both general and subcategories. As shown, Electronics has the highest prices, with a mean price around $120. Home & Kitchen and Car & Motorbike categories follow, with mean prices approximately half of that of Electronics, around $50. The cheapest category is Toys & Games, with a mean price of $1.80. In the subcategories, Laptops have the highest mean price, as expected, at $714.
 
